@@ -1,2 +1,3 @@
 class Dog 
-  def inti
+  def initialize(name, breed)
+    def
