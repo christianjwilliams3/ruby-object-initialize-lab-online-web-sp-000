@@ -1,2 +1,6 @@
 class person
-  def name
+  def name 
+    @name
+  end
+  
+  def 
